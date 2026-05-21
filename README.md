@@ -1,14 +1,14 @@
-GUIÓN VÍDEO EVALUACIÓN PRÁCTICAS — REWE (FFEOE)
-
-PARTE COMÚN — INTRODUCCIÓN A LA EMPRESA
-Juan Antonio:
+**GUIÓN VÍDEO EVALUACIÓN PRÁCTICAS — REWE (FFEOE)**
+**PARTE COMÚN — INTRODUCCIÓN A LA EMPRESA**
+**Juan Antonio:**
 Buenos días. Somos Juan Antonio y Alba, alumnos del ciclo formativo en formación dual, y hemos realizado nuestras prácticas en REWE Group.
 REWE Group es una de las mayores cooperativas de distribución y comercio minorista de Europa, con sede en Colonia, Alemania. Opera en más de 20 países y cuenta con más de 380.000 empleados. Su actividad abarca supermercados, tiendas de descuento, agencias de viaje y logística, siendo uno de los grupos empresariales más relevantes del sector en Europa.
-Alba:
+
+**Alba:**
 El departamento en el que hemos desarrollado nuestras prácticas está orientado al área de tecnología y sistemas de información, concretamente en el entorno SAP. SAP es el sistema de planificación de recursos empresariales que utiliza REWE para gestionar sus procesos internos, desde logística hasta finanzas.
 Durante estas semanas hemos trabajado con el equipo de desarrollo SAP de la empresa, participando en sesiones formativas y proyectos reales. La comunicación con el equipo ha sido principalmente en inglés, y hemos tenido la oportunidad de colaborar directamente con especialistas SAP de habla alemana, lo que ha enriquecido enormemente la experiencia.
 
-PARTE INDIVIDUAL — Juan Antonio
+**PARTE INDIVIDUAL — Juan Antonio**
 
 Paso ahora a presentar mi parte individual.
 Tareas desempeñadas por semanas:
@@ -34,7 +34,7 @@ Del módulo de entornos de desarrollo: he trabajado con Eclipse como IDE y he ap
 Valoración personal:
 Valoro estas prácticas de forma muy positiva. Ha sido una experiencia exigente pero muy enriquecedora. Entrar en contacto con tecnologías SAP, que son estándar en grandes empresas a nivel mundial, me ha dado una perspectiva real del mercado laboral. La posibilidad de trabajar con profesionales internacionales y aprender en un entorno corporativo real es algo que difícilmente se puede replicar en el aula. Me llevo conocimientos técnicos sólidos y una mayor confianza en mis capacidades como futuro profesional del sector.
 
-PARTE INDIVIDUAL — Alba
+**PARTE INDIVIDUAL — Alba**
 
 Paso ahora a presentar mi parte individual.
 Como ya ha explicado mi compañera, al haber trabajado conjuntamente durante todo el periodo de prácticas, el recorrido técnico que hemos seguido ha sido prácticamente el mismo. Aun así, quiero repasar brevemente mi experiencia desde mi punto de vista personal y añadir algunas reflexiones propias.
