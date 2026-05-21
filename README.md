@@ -1,4 +1,5 @@
 **ENLACE DEL VÍDEO**
+https://drive.google.com/drive/u/0/folders/1mPR0PlSktLAH-xWgWX8ygUo4iWd1qkWK
 
 **GUIÓN VÍDEO EVALUACIÓN PRÁCTICAS — REWE (FFEOE)**
 **PARTE COMÚN — INTRODUCCIÓN A LA EMPRESA**
